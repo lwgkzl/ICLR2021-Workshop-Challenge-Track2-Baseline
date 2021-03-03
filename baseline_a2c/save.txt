@@ -1,0 +1,1342 @@
+INFO:root:2   symptom@@@Fever
+INFO:root:2   symptom@@@Breast tenderness
+INFO:root:2   symptom@@@Diplopia
+INFO:root:2   symptom@@@Difficulty breathing
+INFO:root:2   symptom@@@Stomach ache
+INFO:root:2   symptom@@@Afraid of heat
+INFO:root:2   disease@@@Coronary heart disease
+INFO:root:3   symptom@@@Fever
+INFO:root:3   symptom@@@Breast tenderness
+INFO:root:3   symptom@@@Dizziness
+INFO:root:3   symptom@@@Mild thyroid enlargement
+INFO:root:3   disease@@@Mastitis
+INFO:root:4   symptom@@@Breast tenderness
+INFO:root:4   symptom@@@Diplopia
+INFO:root:4   symptom@@@Stomach ache
+INFO:root:4   symptom@@@Afraid of heat
+INFO:root:4   symptom@@@Mild thyroid enlargement
+INFO:root:4   symptom@@@Difficulty breathing
+INFO:root:4   disease@@@Dermatitis
+INFO:root:5   symptom@@@Breast tenderness
+INFO:root:5   symptom@@@Diplopia
+INFO:root:5   symptom@@@Burning sensation behind the breastbone
+INFO:root:5   symptom@@@Afraid of heat
+INFO:root:5   symptom@@@Mild thyroid enlargement
+INFO:root:5   symptom@@@Difficulty breathing
+INFO:root:5   disease@@@Conjunctivitis
+INFO:root:6   symptom@@@Fever
+INFO:root:6   symptom@@@Burning sensation behind the breastbone
+INFO:root:6   symptom@@@Breast tenderness
+INFO:root:6   symptom@@@Diplopia
+INFO:root:6   symptom@@@Afraid of heat
+INFO:root:6   symptom@@@Difficulty breathing
+INFO:root:6   disease@@@Conjunctivitis
+INFO:root:7   symptom@@@Breast tenderness
+INFO:root:7   symptom@@@Diplopia
+INFO:root:7   symptom@@@Stomach ache
+INFO:root:7   symptom@@@Afraid of heat
+INFO:root:7   disease@@@Rhinitis
+INFO:root:8   symptom@@@Fever
+INFO:root:8   symptom@@@Diplopia
+INFO:root:8   symptom@@@Breast tenderness
+INFO:root:8   symptom@@@Difficulty breathing
+INFO:root:8   symptom@@@Afraid of heat
+INFO:root:8   disease@@@Coronary heart disease
+INFO:root:9   symptom@@@Fever
+INFO:root:9   symptom@@@Burning sensation behind the breastbone
+INFO:root:9   symptom@@@Breast tenderness
+INFO:root:9   symptom@@@Diplopia
+INFO:root:9   disease@@@Conjunctivitis
+INFO:root:10   symptom@@@Fever
+INFO:root:10   symptom@@@Breast tenderness
+INFO:root:10   symptom@@@Diplopia
+INFO:root:10   symptom@@@Mild thyroid enlargement
+INFO:root:10   disease@@@Conjunctivitis
+INFO:root:11   symptom@@@Fever
+INFO:root:11   symptom@@@Breast tenderness
+INFO:root:11   symptom@@@Diplopia
+INFO:root:11   symptom@@@Burning sensation behind the breastbone
+INFO:root:11   disease@@@Conjunctivitis
+INFO:root:12   symptom@@@Burning sensation behind the breastbone
+INFO:root:12   symptom@@@Diplopia
+INFO:root:12   symptom@@@Breast tenderness
+INFO:root:12   symptom@@@Stomach ache
+INFO:root:12   disease@@@Conjunctivitis
+INFO:root:13   symptom@@@Fever
+INFO:root:13   symptom@@@Burning sensation behind the breastbone
+INFO:root:13   symptom@@@Breast tenderness
+INFO:root:13   symptom@@@Diplopia
+INFO:root:13   disease@@@Conjunctivitis
+INFO:root:14   symptom@@@Fever
+INFO:root:14   symptom@@@Breast tenderness
+INFO:root:14   symptom@@@Burning sensation behind the breastbone
+INFO:root:14   symptom@@@Diplopia
+INFO:root:14   symptom@@@Difficulty breathing
+INFO:root:14   symptom@@@Mild thyroid enlargement
+INFO:root:14   symptom@@@Headache
+INFO:root:14   disease@@@Mastitis
+INFO:root:15   symptom@@@Fever
+INFO:root:15   symptom@@@Breast tenderness
+INFO:root:15   symptom@@@Diplopia
+INFO:root:15   symptom@@@Afraid of heat
+INFO:root:15   disease@@@Rhinitis
+INFO:root:16   symptom@@@Fever
+INFO:root:16   symptom@@@Burning sensation behind the breastbone
+INFO:root:16   symptom@@@Breast tenderness
+INFO:root:16   symptom@@@Diplopia
+INFO:root:16   disease@@@Conjunctivitis
+INFO:root:17   symptom@@@Fever
+INFO:root:17   symptom@@@Breast tenderness
+INFO:root:17   symptom@@@Burning sensation behind the breastbone
+INFO:root:17   symptom@@@Fear of cold
+INFO:root:17   symptom@@@Diplopia
+INFO:root:17   disease@@@Mastitis
+INFO:root:18   symptom@@@Fever
+INFO:root:18   symptom@@@Diplopia
+INFO:root:18   symptom@@@Breast tenderness
+INFO:root:18   symptom@@@Stomach ache
+INFO:root:18   disease@@@Rhinitis
+INFO:root:19   symptom@@@Breast tenderness
+INFO:root:19   symptom@@@Burning sensation behind the breastbone
+INFO:root:19   symptom@@@Dizziness
+INFO:root:19   symptom@@@Diplopia
+INFO:root:19   disease@@@Mastitis
+INFO:root:20   symptom@@@Fever
+INFO:root:20   symptom@@@Breast tenderness
+INFO:root:20   symptom@@@Burning sensation behind the breastbone
+INFO:root:20   symptom@@@Diplopia
+INFO:root:20   symptom@@@Fear of cold
+INFO:root:20   disease@@@Conjunctivitis
+INFO:root:21   symptom@@@Diplopia
+INFO:root:21   symptom@@@Breast tenderness
+INFO:root:21   symptom@@@Stomach ache
+INFO:root:21   symptom@@@Burning sensation behind the breastbone
+INFO:root:21   disease@@@Rhinitis
+INFO:root:22   symptom@@@Fever
+INFO:root:22   symptom@@@Burning sensation behind the breastbone
+INFO:root:22   symptom@@@Diplopia
+INFO:root:22   symptom@@@Breast tenderness
+INFO:root:22   disease@@@Rhinitis
+INFO:root:23   symptom@@@Fever
+INFO:root:23   symptom@@@Breast tenderness
+INFO:root:23   symptom@@@Burning sensation behind the breastbone
+INFO:root:23   symptom@@@Diplopia
+INFO:root:23   symptom@@@Stomach ache
+INFO:root:23   disease@@@Conjunctivitis
+INFO:root:24   symptom@@@Diplopia
+INFO:root:24   symptom@@@Breast tenderness
+INFO:root:24   symptom@@@Burning sensation behind the breastbone
+INFO:root:24   symptom@@@Afraid of heat
+INFO:root:24   disease@@@Conjunctivitis
+INFO:root:25   symptom@@@Fever
+INFO:root:25   symptom@@@Breast tenderness
+INFO:root:25   symptom@@@Diplopia
+INFO:root:25   symptom@@@Burning sensation behind the breastbone
+INFO:root:25   symptom@@@Stomach ache
+INFO:root:25   symptom@@@Mild thyroid enlargement
+INFO:root:25   symptom@@@Difficulty breathing
+INFO:root:25   symptom@@@Afraid of heat
+INFO:root:25   symptom@@@Headache
+INFO:root:25   disease@@@Conjunctivitis
+INFO:root:26   symptom@@@Fever
+INFO:root:26   symptom@@@Diplopia
+INFO:root:26   symptom@@@Burning sensation behind the breastbone
+INFO:root:26   symptom@@@Breast tenderness
+INFO:root:26   disease@@@Rhinitis
+INFO:root:27   symptom@@@Fever
+INFO:root:27   symptom@@@Diplopia
+INFO:root:27   symptom@@@Breast tenderness
+INFO:root:27   symptom@@@Burning sensation behind the breastbone
+INFO:root:27   disease@@@Rhinitis
+INFO:root:28   symptom@@@Fever
+INFO:root:28   symptom@@@Burning sensation behind the breastbone
+INFO:root:28   symptom@@@Diplopia
+INFO:root:28   symptom@@@Breast tenderness
+INFO:root:28   disease@@@Conjunctivitis
+INFO:root:29   symptom@@@Diplopia
+INFO:root:29   symptom@@@Burning sensation behind the breastbone
+INFO:root:29   symptom@@@Breast tenderness
+INFO:root:29   symptom@@@Stomach ache
+INFO:root:29   disease@@@Conjunctivitis
+INFO:root:30   symptom@@@Diplopia
+INFO:root:30   symptom@@@Breast tenderness
+INFO:root:30   symptom@@@Stomach ache
+INFO:root:30   symptom@@@Burning sensation behind the breastbone
+INFO:root:30   disease@@@Rhinitis
+INFO:root:31   symptom@@@Breast tenderness
+INFO:root:31   symptom@@@Burning sensation behind the breastbone
+INFO:root:31   symptom@@@Dizziness
+INFO:root:31   symptom@@@Headache
+INFO:root:31   disease@@@Mastitis
+INFO:root:32   symptom@@@Fever
+INFO:root:32   symptom@@@Breast tenderness
+INFO:root:32   symptom@@@Burning sensation behind the breastbone
+INFO:root:32   symptom@@@Diplopia
+INFO:root:32   symptom@@@Stomach ache
+INFO:root:32   symptom@@@Difficulty breathing
+INFO:root:32   symptom@@@Mild thyroid enlargement
+INFO:root:32   symptom@@@Fear of cold
+INFO:root:32   symptom@@@Headache
+INFO:root:32   disease@@@Coronary heart disease
+INFO:root:33   symptom@@@Diplopia
+INFO:root:33   symptom@@@Breast tenderness
+INFO:root:33   symptom@@@Burning sensation behind the breastbone
+INFO:root:33   symptom@@@Stomach ache
+INFO:root:33   disease@@@Rhinitis
+INFO:root:34   symptom@@@Fever
+INFO:root:34   symptom@@@Burning sensation behind the breastbone
+INFO:root:34   symptom@@@Diplopia
+INFO:root:34   symptom@@@Breast tenderness
+INFO:root:34   disease@@@Rhinitis
+INFO:root:35   symptom@@@Fever
+INFO:root:35   symptom@@@Breast tenderness
+INFO:root:35   symptom@@@Burning sensation behind the breastbone
+INFO:root:35   symptom@@@Dizziness
+INFO:root:35   disease@@@Mastitis
+INFO:root:36   symptom@@@Diplopia
+INFO:root:36   symptom@@@Burning sensation behind the breastbone
+INFO:root:36   symptom@@@Breast tenderness
+INFO:root:36   symptom@@@Stomach ache
+INFO:root:36   disease@@@Rhinitis
+INFO:root:37   symptom@@@Fever
+INFO:root:37   symptom@@@Burning sensation behind the breastbone
+INFO:root:37   symptom@@@Breast tenderness
+INFO:root:37   symptom@@@Stomach ache
+INFO:root:37   disease@@@Rhinitis
+INFO:root:38   symptom@@@Fever
+INFO:root:38   symptom@@@Burning sensation behind the breastbone
+INFO:root:38   symptom@@@Breast tenderness
+INFO:root:38   symptom@@@Stomach ache
+INFO:root:38   disease@@@Rhinitis
+INFO:root:39   symptom@@@Diplopia
+INFO:root:39   symptom@@@Burning sensation behind the breastbone
+INFO:root:39   symptom@@@Stomach ache
+INFO:root:39   symptom@@@Breast tenderness
+INFO:root:39   disease@@@Rhinitis
+INFO:root:40   symptom@@@Fever
+INFO:root:40   symptom@@@Breast tenderness
+INFO:root:40   symptom@@@Burning sensation behind the breastbone
+INFO:root:40   symptom@@@Stomach ache
+INFO:root:40   disease@@@Rhinitis
+INFO:root:41   symptom@@@Fever
+INFO:root:41   symptom@@@Diplopia
+INFO:root:41   symptom@@@Breast tenderness
+INFO:root:41   symptom@@@Burning sensation behind the breastbone
+INFO:root:41   disease@@@Rhinitis
+INFO:root:42   symptom@@@Fever
+INFO:root:42   symptom@@@Diplopia
+INFO:root:42   symptom@@@Breast tenderness
+INFO:root:42   symptom@@@Stomach ache
+INFO:root:42   disease@@@Rhinitis
+INFO:root:43   symptom@@@Fever
+INFO:root:43   symptom@@@Burning sensation behind the breastbone
+INFO:root:43   symptom@@@Stomach ache
+INFO:root:43   symptom@@@Diplopia
+INFO:root:43   disease@@@Rhinitis
+INFO:root:44   symptom@@@Breast tenderness
+INFO:root:44   symptom@@@Burning sensation behind the breastbone
+INFO:root:44   symptom@@@Headache
+INFO:root:44   symptom@@@Dizziness
+INFO:root:44   disease@@@Mastitis
+INFO:root:45   symptom@@@Diplopia
+INFO:root:45   symptom@@@Breast tenderness
+INFO:root:45   symptom@@@Stomach ache
+INFO:root:45   symptom@@@Afraid of heat
+INFO:root:45   disease@@@Rhinitis
+INFO:root:46   symptom@@@Burning sensation behind the breastbone
+INFO:root:46   symptom@@@Stomach ache
+INFO:root:46   symptom@@@Diplopia
+INFO:root:46   symptom@@@Breast tenderness
+INFO:root:46   disease@@@Rhinitis
+INFO:root:47   symptom@@@Burning sensation behind the breastbone
+INFO:root:47   symptom@@@Breast tenderness
+INFO:root:47   symptom@@@Diplopia
+INFO:root:47   symptom@@@Mild thyroid enlargement
+INFO:root:47   disease@@@Conjunctivitis
+INFO:root:48   symptom@@@Fever
+INFO:root:48   symptom@@@Burning sensation behind the breastbone
+INFO:root:48   symptom@@@Diplopia
+INFO:root:48   symptom@@@Breast tenderness
+INFO:root:48   disease@@@Rhinitis
+INFO:root:49   symptom@@@Diplopia
+INFO:root:49   symptom@@@Breast tenderness
+INFO:root:49   symptom@@@Stomach ache
+INFO:root:49   symptom@@@Burning sensation behind the breastbone
+INFO:root:49   disease@@@Rhinitis
+INFO:root:50   symptom@@@Diplopia
+INFO:root:50   symptom@@@Stomach ache
+INFO:root:50   symptom@@@Burning sensation behind the breastbone
+INFO:root:50   symptom@@@Breast tenderness
+INFO:root:50   disease@@@Rhinitis
+INFO:root:51   symptom@@@Fever
+INFO:root:51   symptom@@@Breast tenderness
+INFO:root:51   symptom@@@Burning sensation behind the breastbone
+INFO:root:51   symptom@@@Fear of cold
+INFO:root:51   disease@@@Mastitis
+INFO:root:52   symptom@@@Fever
+INFO:root:52   symptom@@@Breast tenderness
+INFO:root:52   symptom@@@Burning sensation behind the breastbone
+INFO:root:52   symptom@@@Diplopia
+INFO:root:52   symptom@@@Stomach ache
+INFO:root:52   disease@@@Conjunctivitis
+INFO:root:53   symptom@@@Fever
+INFO:root:53   symptom@@@Breast tenderness
+INFO:root:53   symptom@@@Burning sensation behind the breastbone
+INFO:root:53   symptom@@@Diplopia
+INFO:root:53   symptom@@@Headache
+INFO:root:53   disease@@@Coronary heart disease
+INFO:root:54   symptom@@@Fever
+INFO:root:54   symptom@@@Burning sensation behind the breastbone
+INFO:root:54   symptom@@@Diplopia
+INFO:root:54   symptom@@@Breast tenderness
+INFO:root:54   disease@@@Conjunctivitis
+INFO:root:55   symptom@@@Fever
+INFO:root:55   symptom@@@Diplopia
+INFO:root:55   symptom@@@Burning sensation behind the breastbone
+INFO:root:55   symptom@@@Breast tenderness
+INFO:root:55   disease@@@Rhinitis
+INFO:root:56   symptom@@@Fever
+INFO:root:56   symptom@@@Diplopia
+INFO:root:56   symptom@@@Breast tenderness
+INFO:root:56   symptom@@@Burning sensation behind the breastbone
+INFO:root:56   disease@@@Rhinitis
+INFO:root:57   symptom@@@Stomach ache
+INFO:root:57   symptom@@@Diplopia
+INFO:root:57   symptom@@@Breast tenderness
+INFO:root:57   symptom@@@Burning sensation behind the breastbone
+INFO:root:57   disease@@@Rhinitis
+INFO:root:58   symptom@@@Fever
+INFO:root:58   symptom@@@Breast tenderness
+INFO:root:58   symptom@@@Burning sensation behind the breastbone
+INFO:root:58   symptom@@@Headache
+INFO:root:58   disease@@@Coronary heart disease
+INFO:root:59   symptom@@@Diplopia
+INFO:root:59   symptom@@@Breast tenderness
+INFO:root:59   symptom@@@Burning sensation behind the breastbone
+INFO:root:59   symptom@@@Stomach ache
+INFO:root:59   disease@@@Rhinitis
+INFO:root:60   symptom@@@Fever
+INFO:root:60   symptom@@@Breast tenderness
+INFO:root:60   symptom@@@Diplopia
+INFO:root:60   symptom@@@Burning sensation behind the breastbone
+INFO:root:60   symptom@@@Mild thyroid enlargement
+INFO:root:60   disease@@@Mastitis
+INFO:root:61   symptom@@@Fever
+INFO:root:61   symptom@@@Breast tenderness
+INFO:root:61   symptom@@@Diplopia
+INFO:root:61   symptom@@@Stomach ache
+INFO:root:61   disease@@@Rhinitis
+INFO:root:62   symptom@@@Fever
+INFO:root:62   symptom@@@Breast tenderness
+INFO:root:62   symptom@@@Diplopia
+INFO:root:62   symptom@@@Burning sensation behind the breastbone
+INFO:root:62   disease@@@Rhinitis
+INFO:root:63   symptom@@@Fever
+INFO:root:63   symptom@@@Breast tenderness
+INFO:root:63   symptom@@@Burning sensation behind the breastbone
+INFO:root:63   symptom@@@Diplopia
+INFO:root:63   symptom@@@Mild thyroid enlargement
+INFO:root:63   symptom@@@Difficulty breathing
+INFO:root:63   symptom@@@Headache
+INFO:root:63   disease@@@Conjunctivitis
+INFO:root:64   symptom@@@Fever
+INFO:root:64   symptom@@@Breast tenderness
+INFO:root:64   symptom@@@Burning sensation behind the breastbone
+INFO:root:64   symptom@@@Diplopia
+INFO:root:64   symptom@@@Stomach ache
+INFO:root:64   symptom@@@Mild thyroid enlargement
+INFO:root:64   symptom@@@Difficulty breathing
+INFO:root:64   disease@@@Coronary heart disease
+INFO:root:65   symptom@@@Fever
+INFO:root:65   symptom@@@Breast tenderness
+INFO:root:65   symptom@@@Diplopia
+INFO:root:65   symptom@@@Burning sensation behind the breastbone
+INFO:root:65   disease@@@Coronary heart disease
+INFO:root:66   symptom@@@Fever
+INFO:root:66   symptom@@@Burning sensation behind the breastbone
+INFO:root:66   symptom@@@Breast tenderness
+INFO:root:66   symptom@@@Diplopia
+INFO:root:66   disease@@@Coronary heart disease
+INFO:root:67   symptom@@@Fever
+INFO:root:67   symptom@@@Breast tenderness
+INFO:root:67   symptom@@@Diplopia
+INFO:root:67   symptom@@@Burning sensation behind the breastbone
+INFO:root:67   symptom@@@Stomach ache
+INFO:root:67   symptom@@@Mild thyroid enlargement
+INFO:root:67   symptom@@@Difficulty breathing
+INFO:root:67   disease@@@Coronary heart disease
+INFO:root:68   symptom@@@Fever
+INFO:root:68   symptom@@@Breast tenderness
+INFO:root:68   symptom@@@Burning sensation behind the breastbone
+INFO:root:68   symptom@@@Diplopia
+INFO:root:68   disease@@@Coronary heart disease
+INFO:root:69   symptom@@@Fever
+INFO:root:69   symptom@@@Breast tenderness
+INFO:root:69   symptom@@@Burning sensation behind the breastbone
+INFO:root:69   symptom@@@Diplopia
+INFO:root:69   symptom@@@Mild thyroid enlargement
+INFO:root:69   symptom@@@Difficulty breathing
+INFO:root:69   symptom@@@Stomach ache
+INFO:root:69   disease@@@Coronary heart disease
+INFO:root:70   symptom@@@Fever
+INFO:root:70   symptom@@@Breast tenderness
+INFO:root:70   symptom@@@Burning sensation behind the breastbone
+INFO:root:70   symptom@@@Diplopia
+INFO:root:70   disease@@@Coronary heart disease
+INFO:root:71   symptom@@@Fever
+INFO:root:71   symptom@@@Burning sensation behind the breastbone
+INFO:root:71   symptom@@@Breast tenderness
+INFO:root:71   symptom@@@Diplopia
+INFO:root:71   disease@@@Conjunctivitis
+INFO:root:72   symptom@@@Fever
+INFO:root:72   symptom@@@Breast tenderness
+INFO:root:72   symptom@@@Diplopia
+INFO:root:72   symptom@@@Stomach ache
+INFO:root:72   disease@@@Rhinitis
+INFO:root:73   symptom@@@Fever
+INFO:root:73   symptom@@@Breast tenderness
+INFO:root:73   symptom@@@Burning sensation behind the breastbone
+INFO:root:73   symptom@@@Diplopia
+INFO:root:73   symptom@@@Fear of cold
+INFO:root:73   symptom@@@Headache
+INFO:root:73   symptom@@@Difficulty breathing
+INFO:root:73   disease@@@Coronary heart disease
+INFO:root:74   symptom@@@Fever
+INFO:root:74   symptom@@@Breast tenderness
+INFO:root:74   symptom@@@Burning sensation behind the breastbone
+INFO:root:74   symptom@@@Diplopia
+INFO:root:74   symptom@@@Stomach ache
+INFO:root:74   disease@@@Coronary heart disease
+INFO:root:75   symptom@@@Fever
+INFO:root:75   symptom@@@Breast tenderness
+INFO:root:75   symptom@@@Burning sensation behind the breastbone
+INFO:root:75   symptom@@@Diplopia
+INFO:root:75   disease@@@Coronary heart disease
+INFO:root:76   symptom@@@Diplopia
+INFO:root:76   symptom@@@Breast tenderness
+INFO:root:76   symptom@@@Burning sensation behind the breastbone
+INFO:root:76   symptom@@@Stomach ache
+INFO:root:76   disease@@@Rhinitis
+INFO:root:77   symptom@@@Fever
+INFO:root:77   symptom@@@Burning sensation behind the breastbone
+INFO:root:77   symptom@@@Breast tenderness
+INFO:root:77   symptom@@@Diplopia
+INFO:root:77   symptom@@@Stomach ache
+INFO:root:77   disease@@@Coronary heart disease
+INFO:root:78   symptom@@@Fever
+INFO:root:78   symptom@@@Breast tenderness
+INFO:root:78   symptom@@@Burning sensation behind the breastbone
+INFO:root:78   symptom@@@Diplopia
+INFO:root:78   symptom@@@Difficulty breathing
+INFO:root:78   disease@@@Mastitis
+INFO:root:79   symptom@@@Breast tenderness
+INFO:root:79   symptom@@@Diplopia
+INFO:root:79   symptom@@@Stomach ache
+INFO:root:79   symptom@@@Afraid of heat
+INFO:root:79   disease@@@Rhinitis
+INFO:root:80   symptom@@@Fever
+INFO:root:80   symptom@@@Breast tenderness
+INFO:root:80   symptom@@@Diplopia
+INFO:root:80   symptom@@@Stomach ache
+INFO:root:80   disease@@@Rhinitis
+INFO:root:81   symptom@@@Fever
+INFO:root:81   symptom@@@Stomach ache
+INFO:root:81   symptom@@@Breast tenderness
+INFO:root:81   symptom@@@Diplopia
+INFO:root:81   disease@@@Rhinitis
+INFO:root:82   symptom@@@Breast tenderness
+INFO:root:82   symptom@@@Diplopia
+INFO:root:82   symptom@@@Stomach ache
+INFO:root:82   symptom@@@Burning sensation behind the breastbone
+INFO:root:82   disease@@@Rhinitis
+INFO:root:83   symptom@@@Breast tenderness
+INFO:root:83   symptom@@@Burning sensation behind the breastbone
+INFO:root:83   symptom@@@Fear of cold
+INFO:root:83   symptom@@@Diplopia
+INFO:root:83   disease@@@Mastitis
+INFO:root:84   symptom@@@Breast tenderness
+INFO:root:84   symptom@@@Dizziness
+INFO:root:84   symptom@@@Headache
+INFO:root:84   symptom@@@Burning sensation behind the breastbone
+INFO:root:84   disease@@@Mastitis
+INFO:root:85   symptom@@@Fever
+INFO:root:85   symptom@@@Breast tenderness
+INFO:root:85   symptom@@@Burning sensation behind the breastbone
+INFO:root:85   symptom@@@Fear of cold
+INFO:root:85   disease@@@Mastitis
+INFO:root:86   symptom@@@Breast tenderness
+INFO:root:86   symptom@@@Burning sensation behind the breastbone
+INFO:root:86   symptom@@@Diplopia
+INFO:root:86   symptom@@@Fear of cold
+INFO:root:86   disease@@@Mastitis
+INFO:root:87   symptom@@@Fever
+INFO:root:87   symptom@@@Breast tenderness
+INFO:root:87   symptom@@@Burning sensation behind the breastbone
+INFO:root:87   symptom@@@Diplopia
+INFO:root:87   disease@@@Coronary heart disease
+INFO:root:88   symptom@@@Fever
+INFO:root:88   symptom@@@Breast tenderness
+INFO:root:88   symptom@@@Burning sensation behind the breastbone
+INFO:root:88   symptom@@@Diplopia
+INFO:root:88   symptom@@@Stomach ache
+INFO:root:88   symptom@@@Difficulty breathing
+INFO:root:88   disease@@@Conjunctivitis
+INFO:root:89   symptom@@@Breast tenderness
+INFO:root:89   symptom@@@Dizziness
+INFO:root:89   symptom@@@Headache
+INFO:root:89   symptom@@@Burning sensation behind the breastbone
+INFO:root:89   disease@@@Mastitis
+INFO:root:90   symptom@@@Breast tenderness
+INFO:root:90   symptom@@@Burning sensation behind the breastbone
+INFO:root:90   symptom@@@Dizziness
+INFO:root:90   symptom@@@Headache
+INFO:root:90   disease@@@Mastitis
+INFO:root:91   symptom@@@Fever
+INFO:root:91   symptom@@@Breast tenderness
+INFO:root:91   symptom@@@Burning sensation behind the breastbone
+INFO:root:91   symptom@@@Headache
+INFO:root:91   disease@@@Mastitis
+INFO:root:92   symptom@@@Fever
+INFO:root:92   symptom@@@Diplopia
+INFO:root:92   symptom@@@Burning sensation behind the breastbone
+INFO:root:92   symptom@@@Stomach ache
+INFO:root:92   disease@@@Rhinitis
+INFO:root:93   symptom@@@Breast tenderness
+INFO:root:93   symptom@@@Stomach ache
+INFO:root:93   symptom@@@Burning sensation behind the breastbone
+INFO:root:93   symptom@@@Diplopia
+INFO:root:93   disease@@@Rhinitis
+INFO:root:94   symptom@@@Breast tenderness
+INFO:root:94   symptom@@@Diplopia
+INFO:root:94   symptom@@@Stomach ache
+INFO:root:94   symptom@@@Burning sensation behind the breastbone
+INFO:root:94   symptom@@@Afraid of heat
+INFO:root:94   symptom@@@Mild thyroid enlargement
+INFO:root:94   symptom@@@Difficulty breathing
+INFO:root:94   disease@@@Dermatitis
+INFO:root:95   symptom@@@Fever
+INFO:root:95   symptom@@@Diplopia
+INFO:root:95   symptom@@@Stomach ache
+INFO:root:95   symptom@@@Breast tenderness
+INFO:root:95   disease@@@Rhinitis
+INFO:root:96   symptom@@@Fever
+INFO:root:96   symptom@@@Breast tenderness
+INFO:root:96   symptom@@@Burning sensation behind the breastbone
+INFO:root:96   symptom@@@Diplopia
+INFO:root:96   disease@@@Rhinitis
+INFO:root:97   symptom@@@Fever
+INFO:root:97   symptom@@@Breast tenderness
+INFO:root:97   symptom@@@Burning sensation behind the breastbone
+INFO:root:97   symptom@@@Diplopia
+INFO:root:97   symptom@@@Stomach ache
+INFO:root:97   symptom@@@Afraid of heat
+INFO:root:97   disease@@@Asthma
+INFO:root:98   symptom@@@Fever
+INFO:root:98   symptom@@@Diplopia
+INFO:root:98   symptom@@@Breast tenderness
+INFO:root:98   symptom@@@Stomach ache
+INFO:root:98   disease@@@Rhinitis
+INFO:root:99   symptom@@@Fever
+INFO:root:99   symptom@@@Breast tenderness
+INFO:root:99   symptom@@@Burning sensation behind the breastbone
+INFO:root:99   symptom@@@Diplopia
+INFO:root:99   symptom@@@Mild thyroid enlargement
+INFO:root:99   symptom@@@Fear of cold
+INFO:root:99   symptom@@@Difficulty breathing
+INFO:root:99   disease@@@Mastitis
+INFO:root:100   symptom@@@Fever
+INFO:root:100   symptom@@@Breast tenderness
+INFO:root:100   symptom@@@Burning sensation behind the breastbone
+INFO:root:100   symptom@@@Headache
+INFO:root:100   disease@@@Coronary heart disease
+INFO:root:101   symptom@@@Stomach ache
+INFO:root:101   symptom@@@Burning sensation behind the breastbone
+INFO:root:101   symptom@@@Diplopia
+INFO:root:101   symptom@@@Breast tenderness
+INFO:root:101   disease@@@Rhinitis
+INFO:root:102   symptom@@@Breast tenderness
+INFO:root:102   symptom@@@Burning sensation behind the breastbone
+INFO:root:102   symptom@@@Diplopia
+INFO:root:102   symptom@@@Difficulty breathing
+INFO:root:102   disease@@@Mastitis
+INFO:root:103   symptom@@@Fever
+INFO:root:103   symptom@@@Diplopia
+INFO:root:103   symptom@@@Breast tenderness
+INFO:root:103   symptom@@@Burning sensation behind the breastbone
+INFO:root:103   disease@@@Conjunctivitis
+INFO:root:104   symptom@@@Diplopia
+INFO:root:104   symptom@@@Breast tenderness
+INFO:root:104   symptom@@@Burning sensation behind the breastbone
+INFO:root:104   symptom@@@Stomach ache
+INFO:root:104   disease@@@Conjunctivitis
+INFO:root:105   symptom@@@Breast tenderness
+INFO:root:105   symptom@@@Burning sensation behind the breastbone
+INFO:root:105   symptom@@@Diplopia
+INFO:root:105   symptom@@@Stomach ache
+INFO:root:105   symptom@@@Difficulty breathing
+INFO:root:105   disease@@@Coronary heart disease
+INFO:root:106   symptom@@@Fever
+INFO:root:106   symptom@@@Diplopia
+INFO:root:106   symptom@@@Breast tenderness
+INFO:root:106   symptom@@@Stomach ache
+INFO:root:106   disease@@@Rhinitis
+INFO:root:107   symptom@@@Fever
+INFO:root:107   symptom@@@Diplopia
+INFO:root:107   symptom@@@Breast tenderness
+INFO:root:107   symptom@@@Stomach ache
+INFO:root:107   disease@@@Rhinitis
+INFO:root:108   symptom@@@Fever
+INFO:root:108   symptom@@@Breast tenderness
+INFO:root:108   symptom@@@Burning sensation behind the breastbone
+INFO:root:108   symptom@@@Diplopia
+INFO:root:108   symptom@@@Mild thyroid enlargement
+INFO:root:108   symptom@@@Difficulty breathing
+INFO:root:108   disease@@@Conjunctivitis
+INFO:root:109   symptom@@@Breast tenderness
+INFO:root:109   symptom@@@Burning sensation behind the breastbone
+INFO:root:109   symptom@@@Diplopia
+INFO:root:109   symptom@@@Mild thyroid enlargement
+INFO:root:109   disease@@@Mastitis
+INFO:root:110   symptom@@@Fever
+INFO:root:110   symptom@@@Diplopia
+INFO:root:110   symptom@@@Breast tenderness
+INFO:root:110   symptom@@@Stomach ache
+INFO:root:110   disease@@@Rhinitis
+INFO:root:111   symptom@@@Fever
+INFO:root:111   symptom@@@Diplopia
+INFO:root:111   symptom@@@Breast tenderness
+INFO:root:111   symptom@@@Stomach ache
+INFO:root:111   disease@@@Rhinitis
+INFO:root:112   symptom@@@Fever
+INFO:root:112   symptom@@@Burning sensation behind the breastbone
+INFO:root:112   symptom@@@Diplopia
+INFO:root:112   symptom@@@Breast tenderness
+INFO:root:112   disease@@@Rhinitis
+INFO:root:113   symptom@@@Fever
+INFO:root:113   symptom@@@Diplopia
+INFO:root:113   symptom@@@Stomach ache
+INFO:root:113   symptom@@@Breast tenderness
+INFO:root:113   disease@@@Rhinitis
+INFO:root:114   symptom@@@Fever
+INFO:root:114   symptom@@@Breast tenderness
+INFO:root:114   symptom@@@Diplopia
+INFO:root:114   symptom@@@Stomach ache
+INFO:root:114   disease@@@Rhinitis
+INFO:root:115   symptom@@@Diplopia
+INFO:root:115   symptom@@@Breast tenderness
+INFO:root:115   symptom@@@Stomach ache
+INFO:root:115   symptom@@@Afraid of heat
+INFO:root:115   disease@@@Rhinitis
+INFO:root:116   symptom@@@Fever
+INFO:root:116   symptom@@@Breast tenderness
+INFO:root:116   symptom@@@Diplopia
+INFO:root:116   symptom@@@Burning sensation behind the breastbone
+INFO:root:116   disease@@@Rhinitis
+INFO:root:117   symptom@@@Fever
+INFO:root:117   symptom@@@Diplopia
+INFO:root:117   symptom@@@Breast tenderness
+INFO:root:117   symptom@@@Stomach ache
+INFO:root:117   disease@@@Rhinitis
+INFO:root:118   symptom@@@Diplopia
+INFO:root:118   symptom@@@Breast tenderness
+INFO:root:118   symptom@@@Stomach ache
+INFO:root:118   symptom@@@Afraid of heat
+INFO:root:118   disease@@@Rhinitis
+INFO:root:119   symptom@@@Diplopia
+INFO:root:119   symptom@@@Breast tenderness
+INFO:root:119   symptom@@@Stomach ache
+INFO:root:119   symptom@@@Burning sensation behind the breastbone
+INFO:root:119   disease@@@Rhinitis
+INFO:root:120   symptom@@@Breast tenderness
+INFO:root:120   symptom@@@Burning sensation behind the breastbone
+INFO:root:120   symptom@@@Diplopia
+INFO:root:120   symptom@@@Stomach ache
+INFO:root:120   disease@@@Coronary heart disease
+INFO:root:121   symptom@@@Diplopia
+INFO:root:121   symptom@@@Stomach ache
+INFO:root:121   symptom@@@Breast tenderness
+INFO:root:121   symptom@@@Afraid of heat
+INFO:root:121   disease@@@Rhinitis
+INFO:root:122   symptom@@@Fever
+INFO:root:122   symptom@@@Diplopia
+INFO:root:122   symptom@@@Breast tenderness
+INFO:root:122   symptom@@@Stomach ache
+INFO:root:122   disease@@@Rhinitis
+INFO:root:123   symptom@@@Fever
+INFO:root:123   symptom@@@Diplopia
+INFO:root:123   symptom@@@Breast tenderness
+INFO:root:123   symptom@@@Stomach ache
+INFO:root:123   disease@@@Rhinitis
+INFO:root:124   symptom@@@Fever
+INFO:root:124   symptom@@@Breast tenderness
+INFO:root:124   symptom@@@Diplopia
+INFO:root:124   symptom@@@Stomach ache
+INFO:root:124   disease@@@Rhinitis
+INFO:root:125   symptom@@@Fever
+INFO:root:125   symptom@@@Diplopia
+INFO:root:125   symptom@@@Breast tenderness
+INFO:root:125   symptom@@@Stomach ache
+INFO:root:125   disease@@@Rhinitis
+INFO:root:126   symptom@@@Fever
+INFO:root:126   symptom@@@Diplopia
+INFO:root:126   symptom@@@Breast tenderness
+INFO:root:126   symptom@@@Burning sensation behind the breastbone
+INFO:root:126   disease@@@Rhinitis
+INFO:root:127   symptom@@@Fever
+INFO:root:127   symptom@@@Breast tenderness
+INFO:root:127   symptom@@@Burning sensation behind the breastbone
+INFO:root:127   symptom@@@Diplopia
+INFO:root:127   symptom@@@Difficulty breathing
+INFO:root:127   symptom@@@Mild thyroid enlargement
+INFO:root:127   disease@@@Coronary heart disease
+INFO:root:128   symptom@@@Fever
+INFO:root:128   symptom@@@Diplopia
+INFO:root:128   symptom@@@Burning sensation behind the breastbone
+INFO:root:128   symptom@@@Breast tenderness
+INFO:root:128   symptom@@@Stomach ache
+INFO:root:128   disease@@@Conjunctivitis
+INFO:root:129   symptom@@@Fever
+INFO:root:129   symptom@@@Breast tenderness
+INFO:root:129   symptom@@@Burning sensation behind the breastbone
+INFO:root:129   symptom@@@Diplopia
+INFO:root:129   disease@@@Coronary heart disease
+INFO:root:130   symptom@@@Fever
+INFO:root:130   symptom@@@Diplopia
+INFO:root:130   symptom@@@Breast tenderness
+INFO:root:130   symptom@@@Burning sensation behind the breastbone
+INFO:root:130   symptom@@@Afraid of heat
+INFO:root:130   symptom@@@Stomach ache
+INFO:root:130   symptom@@@Difficulty breathing
+INFO:root:130   symptom@@@Mild thyroid enlargement
+INFO:root:130   disease@@@Coronary heart disease
+INFO:root:131   symptom@@@Diplopia
+INFO:root:131   symptom@@@Breast tenderness
+INFO:root:131   symptom@@@Burning sensation behind the breastbone
+INFO:root:131   symptom@@@Stomach ache
+INFO:root:131   disease@@@Rhinitis
+INFO:root:132   symptom@@@Fever
+INFO:root:132   symptom@@@Breast tenderness
+INFO:root:132   symptom@@@Diplopia
+INFO:root:132   symptom@@@Burning sensation behind the breastbone
+INFO:root:132   symptom@@@Stomach ache
+INFO:root:132   symptom@@@Difficulty breathing
+INFO:root:132   symptom@@@Afraid of heat
+INFO:root:132   symptom@@@Mild thyroid enlargement
+INFO:root:132   disease@@@Coronary heart disease
+INFO:root:133   symptom@@@Fever
+INFO:root:133   symptom@@@Burning sensation behind the breastbone
+INFO:root:133   symptom@@@Breast tenderness
+INFO:root:133   symptom@@@Diplopia
+INFO:root:133   symptom@@@Stomach ache
+INFO:root:133   disease@@@Coronary heart disease
+INFO:root:134   symptom@@@Fever
+INFO:root:134   symptom@@@Breast tenderness
+INFO:root:134   symptom@@@Burning sensation behind the breastbone
+INFO:root:134   symptom@@@Diplopia
+INFO:root:134   disease@@@Coronary heart disease
+INFO:root:135   symptom@@@Fever
+INFO:root:135   symptom@@@Diplopia
+INFO:root:135   symptom@@@Burning sensation behind the breastbone
+INFO:root:135   symptom@@@Breast tenderness
+INFO:root:135   disease@@@Rhinitis
+INFO:root:136   symptom@@@Breast tenderness
+INFO:root:136   symptom@@@Burning sensation behind the breastbone
+INFO:root:136   symptom@@@Dizziness
+INFO:root:136   symptom@@@Headache
+INFO:root:136   disease@@@Mastitis
+INFO:root:137   symptom@@@Fever
+INFO:root:137   symptom@@@Breast tenderness
+INFO:root:137   symptom@@@Burning sensation behind the breastbone
+INFO:root:137   symptom@@@Diplopia
+INFO:root:137   disease@@@Conjunctivitis
+INFO:root:138   symptom@@@Fever
+INFO:root:138   symptom@@@Breast tenderness
+INFO:root:138   symptom@@@Diplopia
+INFO:root:138   symptom@@@Burning sensation behind the breastbone
+INFO:root:138   symptom@@@Stomach ache
+INFO:root:138   symptom@@@Difficulty breathing
+INFO:root:138   symptom@@@Afraid of heat
+INFO:root:138   disease@@@Coronary heart disease
+INFO:root:139   symptom@@@Fever
+INFO:root:139   symptom@@@Breast tenderness
+INFO:root:139   symptom@@@Burning sensation behind the breastbone
+INFO:root:139   symptom@@@Diplopia
+INFO:root:139   symptom@@@Mild thyroid enlargement
+INFO:root:139   symptom@@@Difficulty breathing
+INFO:root:139   symptom@@@Headache
+INFO:root:139   symptom@@@Fear of cold
+INFO:root:139   symptom@@@Afraid of heat
+INFO:root:139   symptom@@@Dizziness
+INFO:root:139   symptom@@@Inspiratory tri-concave sign
+INFO:root:139   symptom@@@Urgency
+INFO:root:139   symptom@@@Body aches
+INFO:root:139   disease@@@Mastitis
+INFO:root:140   symptom@@@Diplopia
+INFO:root:140   symptom@@@Breast tenderness
+INFO:root:140   symptom@@@Stomach ache
+INFO:root:140   symptom@@@Burning sensation behind the breastbone
+INFO:root:140   disease@@@Rhinitis
+INFO:root:141   symptom@@@Fever
+INFO:root:141   symptom@@@Breast tenderness
+INFO:root:141   symptom@@@Burning sensation behind the breastbone
+INFO:root:141   symptom@@@Diplopia
+INFO:root:141   disease@@@Coronary heart disease
+INFO:root:142   symptom@@@Breast tenderness
+INFO:root:142   symptom@@@Burning sensation behind the breastbone
+INFO:root:142   symptom@@@Dizziness
+INFO:root:142   symptom@@@Headache
+INFO:root:142   disease@@@Mastitis
+INFO:root:143   symptom@@@Fever
+INFO:root:143   symptom@@@Diplopia
+INFO:root:143   symptom@@@Breast tenderness
+INFO:root:143   symptom@@@Burning sensation behind the breastbone
+INFO:root:143   disease@@@Rhinitis
+INFO:root:144   symptom@@@Breast tenderness
+INFO:root:144   symptom@@@Burning sensation behind the breastbone
+INFO:root:144   symptom@@@Dizziness
+INFO:root:144   symptom@@@Headache
+INFO:root:144   disease@@@Mastitis
+INFO:root:145   symptom@@@Fever
+INFO:root:145   symptom@@@Breast tenderness
+INFO:root:145   symptom@@@Diplopia
+INFO:root:145   symptom@@@Burning sensation behind the breastbone
+INFO:root:145   symptom@@@Afraid of heat
+INFO:root:145   symptom@@@Difficulty breathing
+INFO:root:145   symptom@@@Stomach ache
+INFO:root:145   symptom@@@Mild thyroid enlargement
+INFO:root:145   disease@@@Coronary heart disease
+INFO:root:146   symptom@@@Fever
+INFO:root:146   symptom@@@Diplopia
+INFO:root:146   symptom@@@Breast tenderness
+INFO:root:146   symptom@@@Burning sensation behind the breastbone
+INFO:root:146   symptom@@@Afraid of heat
+INFO:root:146   symptom@@@Stomach ache
+INFO:root:146   symptom@@@Difficulty breathing
+INFO:root:146   symptom@@@Mild thyroid enlargement
+INFO:root:146   disease@@@Coronary heart disease
+INFO:root:147   symptom@@@Fever
+INFO:root:147   symptom@@@Burning sensation behind the breastbone
+INFO:root:147   symptom@@@Breast tenderness
+INFO:root:147   symptom@@@Diplopia
+INFO:root:147   symptom@@@Stomach ache
+INFO:root:147   disease@@@Asthma
+INFO:root:148   symptom@@@Fever
+INFO:root:148   symptom@@@Diplopia
+INFO:root:148   symptom@@@Breast tenderness
+INFO:root:148   symptom@@@Burning sensation behind the breastbone
+INFO:root:148   disease@@@Rhinitis
+INFO:root:149   symptom@@@Fever
+INFO:root:149   symptom@@@Breast tenderness
+INFO:root:149   symptom@@@Burning sensation behind the breastbone
+INFO:root:149   symptom@@@Diplopia
+INFO:root:149   disease@@@Mastitis
+INFO:root:150   symptom@@@Fever
+INFO:root:150   symptom@@@Burning sensation behind the breastbone
+INFO:root:150   symptom@@@Diplopia
+INFO:root:150   symptom@@@Breast tenderness
+INFO:root:150   disease@@@Conjunctivitis
+INFO:root:151   symptom@@@Diplopia
+INFO:root:151   symptom@@@Breast tenderness
+INFO:root:151   symptom@@@Stomach ache
+INFO:root:151   symptom@@@Burning sensation behind the breastbone
+INFO:root:151   disease@@@Rhinitis
+INFO:root:152   symptom@@@Fever
+INFO:root:152   symptom@@@Breast tenderness
+INFO:root:152   symptom@@@Burning sensation behind the breastbone
+INFO:root:152   symptom@@@Diplopia
+INFO:root:152   disease@@@Coronary heart disease
+INFO:root:153   symptom@@@Fever
+INFO:root:153   symptom@@@Breast tenderness
+INFO:root:153   symptom@@@Burning sensation behind the breastbone
+INFO:root:153   symptom@@@Diplopia
+INFO:root:153   disease@@@Conjunctivitis
+INFO:root:154   symptom@@@Fever
+INFO:root:154   symptom@@@Breast tenderness
+INFO:root:154   symptom@@@Burning sensation behind the breastbone
+INFO:root:154   symptom@@@Diplopia
+INFO:root:154   disease@@@Coronary heart disease
+INFO:root:155   symptom@@@Fever
+INFO:root:155   symptom@@@Breast tenderness
+INFO:root:155   symptom@@@Burning sensation behind the breastbone
+INFO:root:155   symptom@@@Diplopia
+INFO:root:155   disease@@@Conjunctivitis
+INFO:root:156   symptom@@@Fever
+INFO:root:156   symptom@@@Breast tenderness
+INFO:root:156   symptom@@@Burning sensation behind the breastbone
+INFO:root:156   symptom@@@Diplopia
+INFO:root:156   disease@@@Conjunctivitis
+INFO:root:157   symptom@@@Fever
+INFO:root:157   symptom@@@Breast tenderness
+INFO:root:157   symptom@@@Burning sensation behind the breastbone
+INFO:root:157   symptom@@@Diplopia
+INFO:root:157   symptom@@@Stomach ache
+INFO:root:157   symptom@@@Difficulty breathing
+INFO:root:157   symptom@@@Afraid of heat
+INFO:root:157   disease@@@Coronary heart disease
+INFO:root:158   symptom@@@Fever
+INFO:root:158   symptom@@@Diplopia
+INFO:root:158   symptom@@@Burning sensation behind the breastbone
+INFO:root:158   symptom@@@Breast tenderness
+INFO:root:158   disease@@@Rhinitis
+INFO:root:159   symptom@@@Fever
+INFO:root:159   symptom@@@Breast tenderness
+INFO:root:159   symptom@@@Burning sensation behind the breastbone
+INFO:root:159   symptom@@@Diplopia
+INFO:root:159   symptom@@@Mild thyroid enlargement
+INFO:root:159   symptom@@@Difficulty breathing
+INFO:root:159   symptom@@@Stomach ache
+INFO:root:159   symptom@@@Headache
+INFO:root:159   symptom@@@Fear of cold
+INFO:root:159   symptom@@@Afraid of heat
+INFO:root:159   disease@@@Coronary heart disease
+INFO:root:160   symptom@@@Fever
+INFO:root:160   symptom@@@Breast tenderness
+INFO:root:160   symptom@@@Diplopia
+INFO:root:160   symptom@@@Burning sensation behind the breastbone
+INFO:root:160   disease@@@Conjunctivitis
+INFO:root:161   symptom@@@Fever
+INFO:root:161   symptom@@@Breast tenderness
+INFO:root:161   symptom@@@Burning sensation behind the breastbone
+INFO:root:161   symptom@@@Diplopia
+INFO:root:161   symptom@@@Stomach ache
+INFO:root:161   symptom@@@Difficulty breathing
+INFO:root:161   symptom@@@Mild thyroid enlargement
+INFO:root:161   symptom@@@Afraid of heat
+INFO:root:161   disease@@@Coronary heart disease
+INFO:root:162   symptom@@@Fever
+INFO:root:162   symptom@@@Burning sensation behind the breastbone
+INFO:root:162   symptom@@@Breast tenderness
+INFO:root:162   symptom@@@Diplopia
+INFO:root:162   disease@@@Conjunctivitis
+INFO:root:163   symptom@@@Fever
+INFO:root:163   symptom@@@Breast tenderness
+INFO:root:163   symptom@@@Burning sensation behind the breastbone
+INFO:root:163   symptom@@@Diplopia
+INFO:root:163   symptom@@@Stomach ache
+INFO:root:163   symptom@@@Difficulty breathing
+INFO:root:163   symptom@@@Afraid of heat
+INFO:root:163   symptom@@@Mild thyroid enlargement
+INFO:root:163   disease@@@Conjunctivitis
+INFO:root:164   symptom@@@Fever
+INFO:root:164   symptom@@@Breast tenderness
+INFO:root:164   symptom@@@Burning sensation behind the breastbone
+INFO:root:164   symptom@@@Diplopia
+INFO:root:164   disease@@@Coronary heart disease
+INFO:root:165   symptom@@@Diplopia
+INFO:root:165   symptom@@@Breast tenderness
+INFO:root:165   symptom@@@Burning sensation behind the breastbone
+INFO:root:165   symptom@@@Stomach ache
+INFO:root:165   disease@@@Conjunctivitis
+INFO:root:166   symptom@@@Fever
+INFO:root:166   symptom@@@Breast tenderness
+INFO:root:166   symptom@@@Burning sensation behind the breastbone
+INFO:root:166   symptom@@@Diplopia
+INFO:root:166   symptom@@@Mild thyroid enlargement
+INFO:root:166   symptom@@@Difficulty breathing
+INFO:root:166   symptom@@@Headache
+INFO:root:166   disease@@@Mastitis
+INFO:root:167   symptom@@@Fever
+INFO:root:167   symptom@@@Breast tenderness
+INFO:root:167   symptom@@@Burning sensation behind the breastbone
+INFO:root:167   symptom@@@Diplopia
+INFO:root:167   disease@@@Coronary heart disease
+INFO:root:168   symptom@@@Fever
+INFO:root:168   symptom@@@Breast tenderness
+INFO:root:168   symptom@@@Burning sensation behind the breastbone
+INFO:root:168   symptom@@@Dizziness
+INFO:root:168   disease@@@Coronary heart disease
+INFO:root:169   symptom@@@Fever
+INFO:root:169   symptom@@@Diplopia
+INFO:root:169   symptom@@@Burning sensation behind the breastbone
+INFO:root:169   symptom@@@Breast tenderness
+INFO:root:169   disease@@@Rhinitis
+INFO:root:170   symptom@@@Fever
+INFO:root:170   symptom@@@Breast tenderness
+INFO:root:170   symptom@@@Burning sensation behind the breastbone
+INFO:root:170   symptom@@@Diplopia
+INFO:root:170   disease@@@Mastitis
+INFO:root:171   symptom@@@Fever
+INFO:root:171   symptom@@@Breast tenderness
+INFO:root:171   symptom@@@Diplopia
+INFO:root:171   symptom@@@Burning sensation behind the breastbone
+INFO:root:171   disease@@@Rhinitis
+INFO:root:172   symptom@@@Fever
+INFO:root:172   symptom@@@Burning sensation behind the breastbone
+INFO:root:172   symptom@@@Breast tenderness
+INFO:root:172   symptom@@@Diplopia
+INFO:root:172   symptom@@@Stomach ache
+INFO:root:172   symptom@@@Difficulty breathing
+INFO:root:172   disease@@@Coronary heart disease
+INFO:root:173   symptom@@@Breast tenderness
+INFO:root:173   symptom@@@Diplopia
+INFO:root:173   symptom@@@Mild thyroid enlargement
+INFO:root:173   symptom@@@Burning sensation behind the breastbone
+INFO:root:173   disease@@@Dermatitis
+INFO:root:174   symptom@@@Diplopia
+INFO:root:174   symptom@@@Fever
+INFO:root:174   symptom@@@Breast tenderness
+INFO:root:174   symptom@@@Afraid of heat
+INFO:root:174   disease@@@Dermatitis
+INFO:root:175   symptom@@@Fever
+INFO:root:175   symptom@@@Breast tenderness
+INFO:root:175   symptom@@@Burning sensation behind the breastbone
+INFO:root:175   symptom@@@Diplopia
+INFO:root:175   symptom@@@Stomach ache
+INFO:root:175   symptom@@@Mild thyroid enlargement
+INFO:root:175   symptom@@@Difficulty breathing
+INFO:root:175   symptom@@@Afraid of heat
+INFO:root:175   symptom@@@Headache
+INFO:root:175   symptom@@@Fear of cold
+INFO:root:175   symptom@@@Dizziness
+INFO:root:175   symptom@@@Body aches
+INFO:root:175   disease@@@Coronary heart disease
+INFO:root:176   symptom@@@Fever
+INFO:root:176   symptom@@@Diplopia
+INFO:root:176   symptom@@@Breast tenderness
+INFO:root:176   symptom@@@Mild thyroid enlargement
+INFO:root:176   disease@@@Dermatitis
+INFO:root:177   symptom@@@Diplopia
+INFO:root:177   symptom@@@Breast tenderness
+INFO:root:177   symptom@@@Mild thyroid enlargement
+INFO:root:177   symptom@@@Afraid of heat
+INFO:root:177   disease@@@Dermatitis
+INFO:root:178   symptom@@@Diplopia
+INFO:root:178   symptom@@@Breast tenderness
+INFO:root:178   symptom@@@Afraid of heat
+INFO:root:178   symptom@@@Mild thyroid enlargement
+INFO:root:178   disease@@@Dermatitis
+INFO:root:179   symptom@@@Fever
+INFO:root:179   symptom@@@Diplopia
+INFO:root:179   symptom@@@Breast tenderness
+INFO:root:179   symptom@@@Mild thyroid enlargement
+INFO:root:179   disease@@@Dermatitis
+INFO:root:180   symptom@@@Fever
+INFO:root:180   symptom@@@Diplopia
+INFO:root:180   symptom@@@Breast tenderness
+INFO:root:180   symptom@@@Mild thyroid enlargement
+INFO:root:180   disease@@@Dermatitis
+INFO:root:181   symptom@@@Fever
+INFO:root:181   symptom@@@Diplopia
+INFO:root:181   symptom@@@Breast tenderness
+INFO:root:181   symptom@@@Afraid of heat
+INFO:root:181   disease@@@Dermatitis
+INFO:root:182   symptom@@@Fever
+INFO:root:182   symptom@@@Diplopia
+INFO:root:182   symptom@@@Breast tenderness
+INFO:root:182   symptom@@@Afraid of heat
+INFO:root:182   disease@@@Dermatitis
+INFO:root:183   symptom@@@Diplopia
+INFO:root:183   symptom@@@Breast tenderness
+INFO:root:183   symptom@@@Afraid of heat
+INFO:root:183   symptom@@@Mild thyroid enlargement
+INFO:root:183   disease@@@Dermatitis
+INFO:root:184   symptom@@@Diplopia
+INFO:root:184   symptom@@@Breast tenderness
+INFO:root:184   symptom@@@Afraid of heat
+INFO:root:184   symptom@@@Mild thyroid enlargement
+INFO:root:184   disease@@@Dermatitis
+INFO:root:185   symptom@@@Fever
+INFO:root:185   symptom@@@Breast tenderness
+INFO:root:185   symptom@@@Burning sensation behind the breastbone
+INFO:root:185   symptom@@@Diplopia
+INFO:root:185   symptom@@@Mild thyroid enlargement
+INFO:root:185   symptom@@@Difficulty breathing
+INFO:root:185   symptom@@@Stomach ache
+INFO:root:185   disease@@@Conjunctivitis
+INFO:root:186   symptom@@@Fever
+INFO:root:186   symptom@@@Breast tenderness
+INFO:root:186   symptom@@@Diplopia
+INFO:root:186   symptom@@@Mild thyroid enlargement
+INFO:root:186   disease@@@Dermatitis
+INFO:root:187   symptom@@@Fever
+INFO:root:187   symptom@@@Breast tenderness
+INFO:root:187   symptom@@@Burning sensation behind the breastbone
+INFO:root:187   symptom@@@Diplopia
+INFO:root:187   disease@@@Coronary heart disease
+INFO:root:188   symptom@@@Fever
+INFO:root:188   symptom@@@Diplopia
+INFO:root:188   symptom@@@Breast tenderness
+INFO:root:188   symptom@@@Afraid of heat
+INFO:root:188   disease@@@Dermatitis
+INFO:root:189   symptom@@@Diplopia
+INFO:root:189   symptom@@@Breast tenderness
+INFO:root:189   symptom@@@Afraid of heat
+INFO:root:189   symptom@@@Mild thyroid enlargement
+INFO:root:189   disease@@@Dermatitis
+INFO:root:190   symptom@@@Fever
+INFO:root:190   symptom@@@Breast tenderness
+INFO:root:190   symptom@@@Diplopia
+INFO:root:190   symptom@@@Mild thyroid enlargement
+INFO:root:190   disease@@@Dermatitis
+INFO:root:191   symptom@@@Diplopia
+INFO:root:191   symptom@@@Fever
+INFO:root:191   symptom@@@Breast tenderness
+INFO:root:191   symptom@@@Mild thyroid enlargement
+INFO:root:191   disease@@@Dermatitis
+INFO:root:192   symptom@@@Diplopia
+INFO:root:192   symptom@@@Breast tenderness
+INFO:root:192   symptom@@@Mild thyroid enlargement
+INFO:root:192   symptom@@@Afraid of heat
+INFO:root:192   disease@@@Dermatitis
+INFO:root:193   symptom@@@Fever
+INFO:root:193   symptom@@@Breast tenderness
+INFO:root:193   symptom@@@Diplopia
+INFO:root:193   symptom@@@Burning sensation behind the breastbone
+INFO:root:193   symptom@@@Stomach ache
+INFO:root:193   symptom@@@Afraid of heat
+INFO:root:193   symptom@@@Difficulty breathing
+INFO:root:193   symptom@@@Mild thyroid enlargement
+INFO:root:193   disease@@@Coronary heart disease
+INFO:root:194   symptom@@@Fever
+INFO:root:194   symptom@@@Breast tenderness
+INFO:root:194   symptom@@@Diplopia
+INFO:root:194   symptom@@@Burning sensation behind the breastbone
+INFO:root:194   disease@@@Conjunctivitis
+INFO:root:195   symptom@@@Fever
+INFO:root:195   symptom@@@Diplopia
+INFO:root:195   symptom@@@Breast tenderness
+INFO:root:195   symptom@@@Stomach ache
+INFO:root:195   disease@@@Rhinitis
+INFO:root:196   symptom@@@Diplopia
+INFO:root:196   symptom@@@Breast tenderness
+INFO:root:196   symptom@@@Burning sensation behind the breastbone
+INFO:root:196   symptom@@@Stomach ache
+INFO:root:196   symptom@@@Afraid of heat
+INFO:root:196   symptom@@@Difficulty breathing
+INFO:root:196   disease@@@Rhinitis
+INFO:root:197   symptom@@@Fever
+INFO:root:197   symptom@@@Breast tenderness
+INFO:root:197   symptom@@@Stomach ache
+INFO:root:197   symptom@@@Burning sensation behind the breastbone
+INFO:root:197   disease@@@Rhinitis
+INFO:root:198   symptom@@@Fever
+INFO:root:198   symptom@@@Burning sensation behind the breastbone
+INFO:root:198   symptom@@@Breast tenderness
+INFO:root:198   symptom@@@Diplopia
+INFO:root:198   disease@@@Conjunctivitis
+INFO:root:199   symptom@@@Diplopia
+INFO:root:199   symptom@@@Breast tenderness
+INFO:root:199   symptom@@@Burning sensation behind the breastbone
+INFO:root:199   symptom@@@Mild thyroid enlargement
+INFO:root:199   disease@@@Conjunctivitis
+INFO:root:200   symptom@@@Diplopia
+INFO:root:200   symptom@@@Breast tenderness
+INFO:root:200   symptom@@@Burning sensation behind the breastbone
+INFO:root:200   symptom@@@Afraid of heat
+INFO:root:200   disease@@@Dermatitis
+INFO:root:201   symptom@@@Fever
+INFO:root:201   symptom@@@Diplopia
+INFO:root:201   symptom@@@Breast tenderness
+INFO:root:201   symptom@@@Burning sensation behind the breastbone
+INFO:root:201   symptom@@@Afraid of heat
+INFO:root:201   disease@@@Conjunctivitis
+INFO:root:202   symptom@@@Fever
+INFO:root:202   symptom@@@Diplopia
+INFO:root:202   symptom@@@Breast tenderness
+INFO:root:202   symptom@@@Afraid of heat
+INFO:root:202   symptom@@@Burning sensation behind the breastbone
+INFO:root:202   disease@@@Dermatitis
+INFO:root:203   symptom@@@Fever
+INFO:root:203   symptom@@@Diplopia
+INFO:root:203   symptom@@@Breast tenderness
+INFO:root:203   symptom@@@Burning sensation behind the breastbone
+INFO:root:203   symptom@@@Afraid of heat
+INFO:root:203   symptom@@@Stomach ache
+INFO:root:203   disease@@@Conjunctivitis
+INFO:root:204   symptom@@@Fever
+INFO:root:204   symptom@@@Diplopia
+INFO:root:204   symptom@@@Burning sensation behind the breastbone
+INFO:root:204   symptom@@@Breast tenderness
+INFO:root:204   disease@@@Conjunctivitis
+INFO:root:205   symptom@@@Fever
+INFO:root:205   symptom@@@Burning sensation behind the breastbone
+INFO:root:205   symptom@@@Breast tenderness
+INFO:root:205   symptom@@@Diplopia
+INFO:root:205   symptom@@@Stomach ache
+INFO:root:205   symptom@@@Difficulty breathing
+INFO:root:205   disease@@@Coronary heart disease
+INFO:root:206   symptom@@@Fever
+INFO:root:206   symptom@@@Diplopia
+INFO:root:206   symptom@@@Breast tenderness
+INFO:root:206   symptom@@@Burning sensation behind the breastbone
+INFO:root:206   disease@@@Conjunctivitis
+INFO:root:207   symptom@@@Fever
+INFO:root:207   symptom@@@Breast tenderness
+INFO:root:207   symptom@@@Burning sensation behind the breastbone
+INFO:root:207   symptom@@@Diplopia
+INFO:root:207   symptom@@@Stomach ache
+INFO:root:207   symptom@@@Difficulty breathing
+INFO:root:207   symptom@@@Afraid of heat
+INFO:root:207   disease@@@Coronary heart disease
+INFO:root:208   symptom@@@Diplopia
+INFO:root:208   symptom@@@Burning sensation behind the breastbone
+INFO:root:208   symptom@@@Breast tenderness
+INFO:root:208   symptom@@@Stomach ache
+INFO:root:208   disease@@@Conjunctivitis
+INFO:root:209   symptom@@@Fever
+INFO:root:209   symptom@@@Burning sensation behind the breastbone
+INFO:root:209   symptom@@@Diplopia
+INFO:root:209   symptom@@@Breast tenderness
+INFO:root:209   disease@@@Conjunctivitis
+INFO:root:210   symptom@@@Breast tenderness
+INFO:root:210   symptom@@@Burning sensation behind the breastbone
+INFO:root:210   symptom@@@Dizziness
+INFO:root:210   symptom@@@Headache
+INFO:root:210   disease@@@Mastitis
+INFO:root:211   symptom@@@Fever
+INFO:root:211   symptom@@@Breast tenderness
+INFO:root:211   symptom@@@Diplopia
+INFO:root:211   symptom@@@Burning sensation behind the breastbone
+INFO:root:211   symptom@@@Stomach ache
+INFO:root:211   symptom@@@Afraid of heat
+INFO:root:211   symptom@@@Difficulty breathing
+INFO:root:211   disease@@@Rhinitis
+INFO:root:212   symptom@@@Fever
+INFO:root:212   symptom@@@Burning sensation behind the breastbone
+INFO:root:212   symptom@@@Diplopia
+INFO:root:212   symptom@@@Breast tenderness
+INFO:root:212   disease@@@Conjunctivitis
+INFO:root:213   symptom@@@Fever
+INFO:root:213   symptom@@@Breast tenderness
+INFO:root:213   symptom@@@Diplopia
+INFO:root:213   symptom@@@Burning sensation behind the breastbone
+INFO:root:213   symptom@@@Stomach ache
+INFO:root:213   disease@@@Coronary heart disease
+INFO:root:214   symptom@@@Fever
+INFO:root:214   symptom@@@Burning sensation behind the breastbone
+INFO:root:214   symptom@@@Diplopia
+INFO:root:214   symptom@@@Breast tenderness
+INFO:root:214   disease@@@Conjunctivitis
+INFO:root:215   symptom@@@Breast tenderness
+INFO:root:215   symptom@@@Burning sensation behind the breastbone
+INFO:root:215   symptom@@@Dizziness
+INFO:root:215   symptom@@@Headache
+INFO:root:215   disease@@@Mastitis
+INFO:root:216   symptom@@@Fever
+INFO:root:216   symptom@@@Breast tenderness
+INFO:root:216   symptom@@@Diplopia
+INFO:root:216   symptom@@@Burning sensation behind the breastbone
+INFO:root:216   symptom@@@Stomach ache
+INFO:root:216   symptom@@@Difficulty breathing
+INFO:root:216   symptom@@@Afraid of heat
+INFO:root:216   disease@@@Coronary heart disease
+INFO:root:217   symptom@@@Fever
+INFO:root:217   symptom@@@Breast tenderness
+INFO:root:217   symptom@@@Diplopia
+INFO:root:217   symptom@@@Burning sensation behind the breastbone
+INFO:root:217   disease@@@Coronary heart disease
+INFO:root:218   symptom@@@Burning sensation behind the breastbone
+INFO:root:218   symptom@@@Diplopia
+INFO:root:218   symptom@@@Breast tenderness
+INFO:root:218   symptom@@@Mild thyroid enlargement
+INFO:root:218   disease@@@Conjunctivitis
+INFO:root:219   symptom@@@Fever
+INFO:root:219   symptom@@@Burning sensation behind the breastbone
+INFO:root:219   symptom@@@Diplopia
+INFO:root:219   symptom@@@Breast tenderness
+INFO:root:219   disease@@@Conjunctivitis
+INFO:root:220   symptom@@@Breast tenderness
+INFO:root:220   symptom@@@Burning sensation behind the breastbone
+INFO:root:220   symptom@@@Dizziness
+INFO:root:220   symptom@@@Headache
+INFO:root:220   disease@@@Mastitis
+INFO:root:221   symptom@@@Fever
+INFO:root:221   symptom@@@Burning sensation behind the breastbone
+INFO:root:221   symptom@@@Diplopia
+INFO:root:221   symptom@@@Breast tenderness
+INFO:root:221   disease@@@Conjunctivitis
+INFO:root:222   symptom@@@Fever
+INFO:root:222   symptom@@@Burning sensation behind the breastbone
+INFO:root:222   symptom@@@Diplopia
+INFO:root:222   symptom@@@Breast tenderness
+INFO:root:222   disease@@@Conjunctivitis
+INFO:root:223   symptom@@@Fever
+INFO:root:223   symptom@@@Burning sensation behind the breastbone
+INFO:root:223   symptom@@@Diplopia
+INFO:root:223   symptom@@@Breast tenderness
+INFO:root:223   disease@@@Conjunctivitis
+INFO:root:224   symptom@@@Burning sensation behind the breastbone
+INFO:root:224   symptom@@@Diplopia
+INFO:root:224   symptom@@@Breast tenderness
+INFO:root:224   symptom@@@Mild thyroid enlargement
+INFO:root:224   disease@@@Conjunctivitis
+INFO:root:225   symptom@@@Fever
+INFO:root:225   symptom@@@Dizziness
+INFO:root:225   symptom@@@Headache
+INFO:root:225   symptom@@@Mild thyroid enlargement
+INFO:root:225   disease@@@Mastitis
+INFO:root:226   symptom@@@Fever
+INFO:root:226   symptom@@@Dizziness
+INFO:root:226   symptom@@@Mild thyroid enlargement
+INFO:root:226   symptom@@@Burning sensation behind the breastbone
+INFO:root:226   disease@@@Mastitis
+INFO:root:227   symptom@@@Fever
+INFO:root:227   symptom@@@Dizziness
+INFO:root:227   symptom@@@Headache
+INFO:root:227   symptom@@@Burning sensation behind the breastbone
+INFO:root:227   disease@@@Mastitis
+INFO:root:228   symptom@@@Fever
+INFO:root:228   symptom@@@Breast tenderness
+INFO:root:228   symptom@@@Dizziness
+INFO:root:228   symptom@@@Headache
+INFO:root:228   disease@@@Mastitis
+INFO:root:229   symptom@@@Breast tenderness
+INFO:root:229   symptom@@@Dizziness
+INFO:root:229   symptom@@@Headache
+INFO:root:229   symptom@@@Mild thyroid enlargement
+INFO:root:229   disease@@@Mastitis
+INFO:root:230   symptom@@@Fever
+INFO:root:230   symptom@@@Dizziness
+INFO:root:230   symptom@@@Headache
+INFO:root:230   symptom@@@Burning sensation behind the breastbone
+INFO:root:230   disease@@@Mastitis
+INFO:root:231   symptom@@@Fever
+INFO:root:231   symptom@@@Breast tenderness
+INFO:root:231   symptom@@@Dizziness
+INFO:root:231   symptom@@@Mild thyroid enlargement
+INFO:root:231   disease@@@Mastitis
+INFO:root:232   symptom@@@Breast tenderness
+INFO:root:232   symptom@@@Dizziness
+INFO:root:232   symptom@@@Headache
+INFO:root:232   symptom@@@Mild thyroid enlargement
+INFO:root:232   disease@@@Mastitis
+INFO:root:233   symptom@@@Breast tenderness
+INFO:root:233   symptom@@@Dizziness
+INFO:root:233   symptom@@@Headache
+INFO:root:233   symptom@@@Burning sensation behind the breastbone
+INFO:root:233   disease@@@Mastitis
+INFO:root:234   symptom@@@Fever
+INFO:root:234   symptom@@@Diplopia
+INFO:root:234   symptom@@@Burning sensation behind the breastbone
+INFO:root:234   symptom@@@Breast tenderness
+INFO:root:234   disease@@@Rhinitis
+INFO:root:235   symptom@@@Breast tenderness
+INFO:root:235   symptom@@@Dizziness
+INFO:root:235   symptom@@@Headache
+INFO:root:235   symptom@@@Burning sensation behind the breastbone
+INFO:root:235   disease@@@Mastitis
+INFO:root:236   symptom@@@Fever
+INFO:root:236   symptom@@@Dizziness
+INFO:root:236   symptom@@@Headache
+INFO:root:236   symptom@@@Mild thyroid enlargement
+INFO:root:236   disease@@@Mastitis
+INFO:root:237   symptom@@@Fever
+INFO:root:237   symptom@@@Breast tenderness
+INFO:root:237   symptom@@@Dizziness
+INFO:root:237   symptom@@@Burning sensation behind the breastbone
+INFO:root:237   disease@@@Mastitis
+INFO:root:238   symptom@@@Dizziness
+INFO:root:238   symptom@@@Headache
+INFO:root:238   symptom@@@Burning sensation behind the breastbone
+INFO:root:238   symptom@@@Mild thyroid enlargement
+INFO:root:238   disease@@@Mastitis
+INFO:root:239   symptom@@@Fever
+INFO:root:239   symptom@@@Dizziness
+INFO:root:239   symptom@@@Headache
+INFO:root:239   symptom@@@Burning sensation behind the breastbone
+INFO:root:239   disease@@@Mastitis
+INFO:root:1   symptom@@@Fever
+INFO:root:1   symptom@@@Burning sensation behind the breastbone
+INFO:root:1   symptom@@@Diplopia
+INFO:root:1   symptom@@@Breast tenderness
+INFO:root:1   disease@@@Rhinitis
