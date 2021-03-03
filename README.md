@@ -1,6 +1,6 @@
 # ICLR2021-Workshop-Challenge-Track2-Baseline
 
-A simple A2C alogrithm implemented by tianshou.
+A simple A2C alogrithm baseline implemented by tianshou.
 
 ### Requirement
 
